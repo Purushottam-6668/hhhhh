@@ -1,6 +1,7 @@
 {
-  "name": "TG URL Uploader",
-  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
+  "name": "「❀LIBRARIAN'S URL UPLOADER ❀」",
+  "logo": "https://telegra.ph/file/36acbb047eac0bb144d22.png",
+  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. By Team Librarian",
   "keywords": [
     "telegram",
     "best",
@@ -14,9 +15,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "http://t.me/TheLibrarianUrlDlRobot",
+  "website": "https://github.com/PURUSHOTTAM/LIBRARIAN-URL-UPLOADER-2.1",
+  "repository": "https://github.com/PURUSHOTTAM/LIBRARIAN-URL-UPLOADER-2.1",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -24,23 +25,23 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1597365496:AAEfRk6RdPjwSV0TsIe5pmF_T6nOmfihwPo"
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
-      "value": ""
+      "value": "079c80b3-be7f-4bff-a3d8-b2ae936a394c"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3424006"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "29baf8264ea87d14a8dcf1344808fc79"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "1684835578 958007042"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
@@ -49,12 +50,12 @@
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
-      "value": "",
+      "value": "Team_Librarian",
       "required": false
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
-      "value": "",
+      "value": "https://telegra.ph/file/36acbb047eac0bb144d22.png",
       "required": false
     },
     "CHUNK_SIZE": {
